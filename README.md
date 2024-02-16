@@ -1,2 +1,2 @@
 # time-travel
-I'm not a time traveler.
+I am not a time traveler.
